@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in technology, programming and engineering.
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, BOOTSTRAP AND PYTHON.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT AND PYTHON.
 
 - 💞️ I’m looking to collaborate on with what i have been learning along this years.
 
