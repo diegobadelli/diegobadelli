@@ -1,21 +1,21 @@
-- 👋 Hi, I’m Diego Badelli!
-
-- 👀 I’m interested in technology, programming and engineering.
-
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT AND PYTHON.
-
-- 💞️ I’m looking to collaborate on with what i have been learning along this years.
-
-- 📫 Please fell free to contact me: [![linkedin](https://camo.githubusercontent.com/d8c85b9eed71a841bde41a89cf26c23da691308a5640a0dea80431ff6c1a9a09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f72656e61746f7375677569792f)][2]
-                                      [![Gmail](https://camo.githubusercontent.com/98066c9a1782c3e1aa9e2cd02680000461324b85974a31360098bbefca7f1489/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a72656e61746f73756775697940676d61696c2e636f6d)][4]
-
-[![github](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)][1]    [![github](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)][1]   [![github](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)][1]   [![github](https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)][1] 
-
-[![github](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobadelli&layout=compact&langs_count=7&theme=dracula)][5]
-
-
-[1]: http://www.github.com/diegobadelli
-[2]: https://www.linkedin.com/in/diegobadelli
-[3]: https://www.instagram.com/diegobadelli
-[4]: mailto:diego.badelli@gmail.com
-[5]: https://github-readme-stats.vercel.app/api/top-langs/?username=diegobadelli&layout=compact&langs_count=7&theme=dracula
+<h2 align="left"> 👋 Hi, I’m Diego Badelli! 
+<h3 align="left">An enthusiast about technology, programming and engineering. </h3>
+ <div>
+  <a href="https://github.com/diegobadelli">
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=diegobadelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobadelli&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block" align="left">
+  <h3>👨‍💻 Skills:</h3>
+  <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Diego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Diego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+<br>
+<h3>📫 Get in touch:</h3>
+<div>
+  <a href="https://instagram.com/diegobadelli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:diego.badelli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diegobadelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
