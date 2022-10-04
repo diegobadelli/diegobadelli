@@ -2,7 +2,6 @@
 <h3 align="left">An enthusiast about technology, programming and engineering. </h3>
  <div align="center">
   <a href="https://github.com/diegobadelli">
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=diegobadelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobadelli&layout=compact&langs_count=7&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegobadelli"/>
 </div>
